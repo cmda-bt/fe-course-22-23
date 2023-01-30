@@ -46,7 +46,7 @@ GitHub is a social platform so give this repository `fe-course-22-23` [a ⭐ sta
 
 /Happy Coding!
 
-[banner-guide]: https://cmda-bt.github.io/fe-course-22-23/assets/banner-guide.svg
+[banner-guide]: https://cmda-bt.github.io/fe-course-21-22/assets/banner-guide.svg
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
