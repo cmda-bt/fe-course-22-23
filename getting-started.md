@@ -37,7 +37,7 @@ Sign up for our _Blok-Tech_ MS Team. **You can find the sign-up code in the anno
 
 ### GitHub
 
-GitHub is a social platform so give this repository `fe-course-21-22` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
+GitHub is a social platform so give this repository `fe-course-22-23` [a ⭐ star][star] and start [following][follow] your teachers and fellow students!
 
 
 **Wow, you did it! Virtual high five! 🖐** During this course we'll use GitHub issues and templates. Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where teachers and student-assistants will give you feedback. You can use [GitHub notifications][notifications] (bell on the top right of the GitHub website) to keep track of those changes.
@@ -46,7 +46,7 @@ GitHub is a social platform so give this repository `fe-course-21-22` [a ⭐ sta
 
 /Happy Coding!
 
-[banner-guide]: https://cmda-bt.github.io/fe-course-21-22/assets/banner-guide.svg
+[banner-guide]: https://cmda-bt.github.io/fe-course-22-23/assets/banner-guide.svg
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
@@ -61,6 +61,6 @@ GitHub is a social platform so give this repository `fe-course-21-22` [a ⭐ sta
 [videotext]: https://www.youtube.com/watch?v=a2A_AGAnNjQ
 [videoorg]: https://www.youtube.com/watch?v=8w69jLPpPXM
 [videogit]: https://www.youtube.com/watch?v=Qq39mizx5kE
-[issues]: https://github.com/cmda-bt/pt-course-20-21/issues/new/choose
+[issues]: https://github.com/cmda-bt/pt-course-22-23/issues/new/choose
 [learnvs]: https://code.visualstudio.com/learntocode
 [learndevtools]: https://developer.chrome.com/docs/devtools/
