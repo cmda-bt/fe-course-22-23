@@ -44,7 +44,10 @@ Read some of the more in-depth JavaScript articles below:
 Then, finish the assignments that are used in the Lab of this week. 
 
 * Front-end (blok web) JavaScript refactor to ES6
-* [Datatypes cardio on CodePen](https://codepen.io/robertspier/pen/KKyNQGM)
+* [ES6 mission on Codepen](https://codepen.io/robertspier/pen/oNMrYyo)
+
+* Introduction to Datatypes
+* [Datatypes cardio on Codepen](https://codepen.io/robertspier/pen/BaPgQEE)
 
 Additionally you can refresh more of your JavaScript knowledge by doing a couple of FreeCodeCamp exercises or do some exercises from Wes Bos his JavaScript30 course. 
 
