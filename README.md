@@ -19,7 +19,7 @@ The course **Front-end** is given at [**@CMDA**][cmda] in 2022 between February 
 *   **Course**: [Front-end Development 2][course] (`2000FED221`)
 *   **Coordinator**: [Robert Spier][robgit] - r.spier@hva.nl
 *   **Lecturers**:
-    [Robert Spier][robgit] ([**roberrrt-s**][robgit]) and [Michael Kern](kerngit) ([**emkern**][kerngit])
+    [Robert Spier][robgit] ([**roberrrt-s**][robgit]) and [Michael Kern][kerngit] ([**emkern**][kerngit])
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2021-2022
 *   **Period**: Quarter 3 (spring)
