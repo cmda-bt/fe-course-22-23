@@ -135,7 +135,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 
 [MIT][license] © [Danny de Vries][dangit] & [Robert Spier][robgit], docs and images are [CC-BY-4.0][license].
 
-[banner]: https://cmda-bt.github.io/fe-course-22-23/assets/banner.svg
+[banner]: https://raw.githubusercontent.com/cmda-bt/fe-course-22-23/main/assets/banner.svg
 [cmd]: https://www.cmd-amsterdam.nl/english/
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
