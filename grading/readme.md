@@ -44,7 +44,7 @@ The main goals in this course:
 ## Assessments
 
 ### A1 - Feature (Individual)
-This is an *oral test* where you individually present the **progressive enhancement you created** for Front-end. You will answer questions in such a way as to demonstrate sufficient knowledge of our goals.
+This is an *written test* where you individually present the **progressive enhancement you created** for Front-end. You will answer questions in such a way as to demonstrate sufficient knowledge of our goals.
 
 → [Rubric of assessment 1][a1]
 
