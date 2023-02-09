@@ -17,9 +17,9 @@
 The course **Front-end** is given at [**@CMDA**][cmda] in 2022 between February and June.
 
 *   **Course**: [Front-end Development 2][course] (`2000FED221`)
-*   **Coordinator**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Robert Spier][robgit] - r.spier@hva.nl
+*   **Coordinator**: [Robert Spier][robgit] - r.spier@hva.nl
 *   **Lecturers**:
-    [Danny de Vries][dangit] ([**@dandevri**][danweb]) and [Robert Spier][robgit] ([**roberrrt-s**][robgit])
+    [Robert Spier][robgit] ([**roberrrt-s**][robgit]) and [Michael Kern](kerngit) ([**emkern**][kerngit])
 *   **Credit**: 3 ECTS
 *   **Academic year**: 2021-2022
 *   **Period**: Quarter 3 (spring)
@@ -135,22 +135,23 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 
 [MIT][license] © [Danny de Vries][dangit] & [Robert Spier][robgit], docs and images are [CC-BY-4.0][license].
 
-[banner]: https://cmda-bt.github.io/fe-course-21-22/assets/banner.svg
+[banner]: https://cmda-bt.github.io/fe-course-22-23/assets/banner.svg
 [cmd]: https://www.cmd-amsterdam.nl/english/
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
 [danweb]: https://github.com/dandevri
 [robgit]: https://github.com/roberrrt-s
+[kerngit]: https://github.com/emkern
 [node]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
-[license]: https://github.com/cmda-bt/fe-course-21-22/blob/main/LICENSE
+[license]: https://github.com/cmda-bt/fe-course-22-23/blob/main/LICENSE
 [http]: https://tools.ietf.org/html/rfc2068
 [minor]: https://cmda.github.io/minor-everything-web/
 [track]: https://github.com/cmda-tt
 [gh]: https://github.com/cmda-bt/
 [examples]: /examples
 [teams]: http://teams.microsoft.com
-[brightspace]: https://dlo.mijnhva.nl/d2l/home/324291
+[brightspace]: https://dlo.mijnhva.nl/d2l/home/437101
 [examples]: examples
 [stackoverflow]: https://stackoverflow.com
 [duckduckgo]: https://duckduckgo.com
