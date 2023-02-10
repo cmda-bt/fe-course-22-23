@@ -107,4 +107,4 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 [issues]: https://github.com/cmda-bt/fe-course-21-22/issues/new/choose
 
-[lab1]: /slides/fe_lab-1-21-22.pdf
+[lab1]: /slides/fe_lab-1-22-23.pdf
